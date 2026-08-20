@@ -141,4 +141,4 @@ Visvesvaraya National Institute of Technology (VNIT), Nagpur, India — `2020 �
 <a href="https://vudaykiran.base44.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel"></a>
 </p>
 
-<p align="center"><i>⭐️ Open to Full Stack, MERN Stack, and Backend Developer opportunities</i></p>
+<p align="center"><i>⭐️ Open to opportunities in Full Stack, MERN Stack, and Backend Development, as well as Data Analyst, Data Engineer, and AI Engineering roles</i></p>
