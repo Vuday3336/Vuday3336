@@ -1,335 +1,138 @@
-```markdown
-# Hi, I'm Vardhineedi Uday Kiran 👋
+<h1 align="center">Hi, I'm Vardhineedi Uday Kiran 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Engineer | Data Analyst & AI Engineer</h3>
 
-### Full Stack Developer | Data Engineer | AI & Analytics Enthusiast
-
-I'm a Computer Science graduate from **Visvesvaraya National Institute of Technology (VNIT), Nagpur**, passionate about building scalable software applications, data pipelines, APIs, and AI-powered solutions.
-
-I work across both **Full Stack Development** and **Data Engineering / Analytics**, with hands-on experience building production-oriented backend services, ETL pipelines, responsive web applications, REST APIs, and data-driven systems.
-
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer with experience in the **MERN stack**
-- 📊 Data & Analytics experience with **Python, SQL, PySpark, Databricks, and Microsoft Fabric**
-- 🔧 Backend development using **Node.js, Express.js, FastAPI, and Flask**
-- 🗄️ Experience with **MongoDB, PostgreSQL, MySQL, and Supabase**
-- 🤖 Interested in **AI, Machine Learning, Generative AI, and AI evaluation**
-- 📈 Experience building dashboards and data analysis workflows using **Power BI, Pandas, NumPy, and SQL**
-- 🔐 Experienced with **JWT authentication, authorization, REST APIs, CRUD operations, and API integration**
-- 🌱 Continuously improving my skills in **system design, data structures, algorithms, cloud technologies, and scalable application development**
+<p align="center">
+  <a href="https://linkedin.com/in/vardhineedi-uday-kiran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:vuday3336@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Vuday3336"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+### 👨‍💻 About Me
 
-### 💻 Full Stack Development
+I'm a Computer Science graduate from **VNIT Nagpur** with hands-on experience across full-stack web development and data engineering. I build **scalable MERN stack applications** and **production-grade backend systems**, and I've also worked on **ETL pipelines, AI evaluation frameworks, and data analytics** for a UAE-based remote team.
+
+- 🔭 Currently building full-stack projects (MERN) and refining backend systems with **FastAPI/Flask**
+- 🌱 Deepening expertise in **data engineering** (PySpark, Databricks, Microsoft Fabric)
+- 🧩 Active problem solver on **LeetCode** — DSA, greedy, DP, binary search on answer
+- 💼 Freelance contributor to **SkoolX.org**, an AI-powered EdTech LMS platform
+- 📍 Based in Hyderabad, India
+
+---
+
+### 🛠️ Tech Stack
 
 **Frontend**
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Redux Toolkit
-- React Context API
-- Tailwind CSS
-- Bootstrap
-- Vite
-- Responsive Web Design
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+</p>
 
 **Backend**
-- Node.js
-- Express.js
-- FastAPI
-- Flask
-- REST APIs
-- JWT Authentication
-- bcrypt
-- Middleware
-- Microservices
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white">
+</p>
 
 **Databases**
-- MongoDB
-- Mongoose
-- PostgreSQL
-- MySQL
-- Supabase
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
+</p>
+
+**Data Engineering & Analytics**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+</p>
+
+**Tools & Platforms**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white">
+</p>
 
 ---
 
-### 📊 Data Engineering & Analytics
+### 💼 Professional Experience
 
-**Languages & Data Processing**
-- Python
-- SQL
-- Pandas
-- NumPy
-- PySpark
-- Spark SQL
+**Data Analyst & AI Synergy Engineer** — *Delphi UAE (Remote)*
+`Aug 2025 – Feb 2026`
+- Built production ETL pipelines using PySpark on Databricks and Microsoft Fabric for large-scale data ingestion and transformation
+- Automated and monitored Databricks Jobs for batch processing, reducing pipeline latency
+- Developed AI evaluation frameworks with automated experiment tracking, driving a 15–20% improvement in evaluation outcomes
 
-**Data Engineering**
-- ETL / ELT Pipelines
-- Data Transformation
-- Data Validation
-- Batch Processing
-- Workflow Automation
-- Databricks
-- Microsoft Fabric
-- Lakehouse Architecture
-
-**Business Intelligence**
-- Power BI
-- DAX
-- Tableau
-- Excel
+**Software Developer** — *Q Ventures Pvt Ltd, Hyderabad*
+`Jun 2024 – Jun 2025`
+- Designed and engineered scalable RESTful APIs and backend services using FastAPI and Flask
+- Built and evaluated ML models with scikit-learn, achieving 85% prediction accuracy
+- Improved reporting accuracy by 20% through data analysis and visualization with Pandas, NumPy, and SQL
 
 ---
 
-### 🤖 Machine Learning & AI
+### 🚀 Featured Projects
 
-- scikit-learn
-- Feature Engineering
-- Model Evaluation
-- Classification
-- Predictive Modeling
-- Generative AI
-- AI Evaluation
-- Experiment Tracking
-- Data Analysis
+#### [ShoeMart — Full Stack E-Commerce Platform](https://github.com/Vuday3336)
+`React.js` `Node.js` `Express.js` `PostgreSQL` `Redux Toolkit` `JWT`
+- Full-stack e-commerce app with product browsing, search/filtering, cart, checkout, and order management
+- JWT authentication, protected routes, and REST APIs for products, users, carts, and orders
+- PostgreSQL (Supabase) integration with Redux Toolkit for persistent cart/wishlist state
 
----
+#### [Hospital Management System](https://github.com/Vuday3336)
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
+- Full-stack system for patient records, appointments, and staff management
+- JWT authentication with bcrypt-based role access control
+- RESTful CRUD APIs with responsive UI built using Context API, Tailwind CSS, and Axios
 
-### ⚙️ Tools & Technologies
+#### [TaskFlow — Full Stack Task Management Platform](https://github.com/Vuday3336)
+`React.js` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
+- Secure task management platform with JWT auth, protected APIs, and complete task CRUD
+- Status/priority management, search, filtering, and date-range filtering with pagination
+- Cloudinary integration for media uploads; deployed on Netlify (frontend) + Render (backend)
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- npm
-- CI/CD
-- Netlify
-- Render
-- Cloudinary
+#### [SkoolX.org — AI-Powered LMS](https://skoolx.org) *(Freelance)*
+`React.js` `JavaScript` `HTML5` `CSS3` `REST APIs`
+- AI-powered EdTech platform for Classes 1–12 with personalized learning and AI tutoring
+- Built responsive, reusable React.js components for quizzes, dashboards, and progress tracking
 
----
-
-## 🚀 Featured Projects
-
-### 📝 TaskFlow — Full Stack Task Management Platform
-
-A production-oriented MERN task management application featuring authentication, task management, filtering, pagination, file uploads, external API integration, and cloud deployment.
-
-**Tech Stack:**  
-React.js • Vite • Node.js • Express.js • MongoDB • JWT • Cloudinary
-
-**Key Features:**
-- JWT-based authentication and protected routes
-- Complete task CRUD operations
-- Task status and priority management
-- Search and advanced filtering
-- Date-range filtering
-- Pagination
-- File attachments and media uploads
-- Cloudinary integration
-- Location-based weather integration
-- MongoDB Atlas persistence
-- Netlify frontend deployment
-- Render backend deployment
-
-🔗 **Live Demo:** https://taskmanagerrmern.netlify.app/
+#### Resume Parser with Analytics Dashboard
+`Python` `SQL` `Generative AI`
+- End-to-end ETL pipeline to extract, transform, and structure unstructured resume data
+- Classification models for skill/experience-based resume categorization
+- Analytics dashboards visualizing skill distribution and hiring trends
 
 ---
 
-### 👟 ShoeMart — Full Stack E-Commerce Platform
+### 🎓 Education
 
-A full-stack e-commerce application designed for browsing products, managing carts and wishlists, checkout, and order management.
-
-**Tech Stack:**  
-React.js • Node.js • Express.js • PostgreSQL • Redux Toolkit • JWT
-
-**Key Features:**
-- User registration and login
-- JWT authentication
-- Protected routes
-- Product browsing and filtering
-- Shopping cart
-- Wishlist
-- Persistent cart state
-- Checkout
-- Cash on Delivery
-- Order history
-- Order cancellation
-- REST APIs
-- PostgreSQL database integration
+**Bachelor of Technology, Computer Science and Engineering**
+Visvesvaraya National Institute of Technology (VNIT), Nagpur, India — `2020 – 2024`
 
 ---
 
-### 🏥 Hospital Management System
+### 📫 Let's Connect
 
-A full-stack hospital management application for managing patients, appointments, departments, and staff.
+<p align="left">
+<a href="https://linkedin.com/in/vardhineedi-uday-kiran"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:vuday3336@gmail.com"><img src="https://img.shields.io/badge/Email-vuday3336%40gmail.com-red?style=flat-square&logo=gmail"></a>
+</p>
 
-**Tech Stack:**  
-React.js • Node.js • Express.js • MongoDB • Mongoose • JWT
-
-**Key Features:**
-- Patient management
-- Appointment management
-- Department management
-- JWT authentication
-- Role-based access control
-- bcrypt password hashing
-- RESTful CRUD APIs
-- React Context API
-- Tailwind CSS
-- Vite
-
----
-
-### 🎓 SkoolX.org — AI-Powered Learning Management Platform
-
-Contributed to an AI-powered EdTech platform designed for Classes 1–12 with personalized learning, AI-assisted tutoring, exam preparation, quizzes, dashboards, and performance tracking.
-
-**Tech Stack:**  
-React.js • JavaScript • HTML5 • CSS3 • REST APIs
-
-🔗 **Project:** https://skoolx.org/
-
----
-
-### 📊 Customer Behavior Analysis
-
-A machine learning and analytics project focused on understanding customer purchasing behavior.
-
-**Tech Stack:**  
-Python • Pandas • NumPy • scikit-learn • SQL • Machine Learning
-
-**Work Included:**
-- Exploratory Data Analysis
-- Feature Engineering
-- Customer segmentation
-- Predictive modeling
-- Model evaluation
-- Business insight generation
-
----
-
-### 🗄️ Employee Database Management System
-
-A data management and analytics project combining SQL database design, ETL workflows, and business intelligence.
-
-**Tech Stack:**  
-SQL • Python • Power BI • ETL
-
-**Work Included:**
-- Employee database design
-- Data extraction and transformation
-- Data validation
-- ETL workflows
-- KPI reporting
-- Power BI dashboards
-
----
-
-## 💼 Professional Experience
-
-### Data Analyst & AI Synergy Engineer — Delphi
-
-- Built ETL pipelines using **PySpark, Databricks, and Microsoft Fabric**
-- Worked on large-scale data ingestion, transformation, and validation
-- Automated batch workflows and Databricks Jobs
-- Developed AI evaluation frameworks and dashboards
-- Worked with generative AI methods and experiment tracking
-
-### Software Developer — Q Ventures Pvt Ltd
-
-- Developed scalable REST APIs using **FastAPI and Flask**
-- Integrated backend services with SQL databases
-- Worked with Python, Pandas, NumPy, SQL, and scikit-learn
-- Applied data structures, algorithms, and object-oriented programming
-- Followed Git-based software development practices
-
----
-
-## 🧩 Problem Solving
-
-I regularly practice **Data Structures & Algorithms** and problem solving.
-
-Topics I work on include:
-
-- Arrays
-- Strings
-- Hashing
-- Sliding Window
-- Two Pointers
-- Binary Search
-- Trees
-- Graphs
-- Dynamic Programming
-- Recursion
-- Sorting & Searching
-
----
-
-## 📈 GitHub Activity
-
-I actively use GitHub for:
-
-- Full Stack projects
-- Backend/API development
-- Data engineering experiments
-- Machine learning projects
-- DSA practice
-- Academic and freelance projects
-
----
-
-## 🎯 Current Focus
-
-I'm currently focusing on strengthening my skills in:
-
-**Full Stack Development**
-- MERN Stack
-- Backend Architecture
-- REST API Design
-- Authentication & Authorization
-- Database Design
-- Cloud Deployment
-
-**Data & AI**
-- Data Engineering
-- PySpark
-- Databricks
-- Microsoft Fabric
-- SQL
-- Machine Learning
-- Generative AI
-- AI Evaluation
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in opportunities related to:
-
-- Full Stack Development
-- MERN Stack Development
-- Backend Development
-- Node.js Development
-- Python Backend Development
-- Data Engineering
-- Data Analytics
-- AI / Machine Learning
-
-📧 **Email:** vuday3336@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/vardhineedi-uday-kiran/
-
-🐙 **GitHub:** https://github.com/Vuday3336
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-If you find any of my projects interesting, feel free to explore the repositories and connect with me.
-```
+<p align="center"><i>⭐️ Open to Full Stack, MERN Stack, and Backend Developer opportunities</i></p>
