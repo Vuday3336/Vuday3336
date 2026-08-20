@@ -2,9 +2,11 @@
 <h3 align="center">Full Stack Developer | MERN Stack Engineer | Data Analyst & AI Engineer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vardhineedi-uday-kiran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vardhineedi-uday-kiran-527546219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:vuday3336@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Vuday3336"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/u/vuday3336/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://vudaykiran.base44.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -15,8 +17,9 @@ I'm a Computer Science graduate from **VNIT Nagpur** with hands-on experience ac
 
 - 🔭 Currently building full-stack projects (MERN) and refining backend systems with **FastAPI/Flask**
 - 🌱 Deepening expertise in **data engineering** (PySpark, Databricks, Microsoft Fabric)
-- 🧩 Active problem solver on **LeetCode** — DSA, greedy, DP, binary search on answer
+- 🧩 Active problem solver on **[LeetCode](https://leetcode.com/u/vuday3336/)** — DSA, greedy, DP, binary search on answer
 - 💼 Freelance contributor to **SkoolX.org**, an AI-powered EdTech LMS platform
+- 🌐 Check out my **[Portfolio](https://vudaykiran.base44.app/)**
 - 📍 Based in Hyderabad, India
 
 ---
@@ -102,11 +105,12 @@ I'm a Computer Science graduate from **VNIT Nagpur** with hands-on experience ac
 - JWT authentication with bcrypt-based role access control
 - RESTful CRUD APIs with responsive UI built using Context API, Tailwind CSS, and Axios
 
-#### [TaskFlow — Full Stack Task Management Platform](https://github.com/Vuday3336)
+#### [TaskFlow — Full Stack Task Management Platform](https://taskmanagerrmern.netlify.app/)
 `React.js` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
 - Secure task management platform with JWT auth, protected APIs, and complete task CRUD
 - Status/priority management, search, filtering, and date-range filtering with pagination
 - Cloudinary integration for media uploads; deployed on Netlify (frontend) + Render (backend)
+- 🔗 **Live Demo:** [taskmanagerrmern.netlify.app](https://taskmanagerrmern.netlify.app/)
 
 #### [SkoolX.org — AI-Powered LMS](https://skoolx.org) *(Freelance)*
 `React.js` `JavaScript` `HTML5` `CSS3` `REST APIs`
@@ -131,8 +135,10 @@ Visvesvaraya National Institute of Technology (VNIT), Nagpur, India — `2020 �
 ### 📫 Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/vardhineedi-uday-kiran"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/vardhineedi-uday-kiran-527546219/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:vuday3336@gmail.com"><img src="https://img.shields.io/badge/Email-vuday3336%40gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="https://leetcode.com/u/vuday3336/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode"></a>
+<a href="https://vudaykiran.base44.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel"></a>
 </p>
 
 <p align="center"><i>⭐️ Open to Full Stack, MERN Stack, and Backend Developer opportunities</i></p>
